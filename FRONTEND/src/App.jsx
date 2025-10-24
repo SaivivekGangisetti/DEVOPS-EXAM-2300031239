@@ -1,6 +1,6 @@
 import VoterApp from "./VoterApp"
 
-
+  
 function App() {
   
 
